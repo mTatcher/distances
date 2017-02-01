@@ -1,6 +1,6 @@
-a, b, 1
-a, c, 2
-b, d, 4
-c, d, 1
-e, f, 2
-a, e, 8
+New York, Washington, 1
+New York, Boston, 2
+Washington, Houston, 4
+Boston, Houston, 1
+Los Angeles, Las Vegas, 2
+New York, Los Angeles, 8

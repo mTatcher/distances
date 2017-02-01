@@ -16,7 +16,10 @@ in terminal, type
 ```
 python distance.py ${path/to/file} ${city_a} ${city_b}
 ```
-
+for example,
+```
+python distance.py ~/my_file.txt Washington "Los Angeles"
+```
 The output will be a dictionary of 3 keys:
 
 * shortest path: The path from city_a to city_b
@@ -28,5 +31,8 @@ The output will be a dictionary of 3 keys:
 ```
 city_a, city_b, distance
 ```
-
+third value in line must be an integer, for example
+```
+New York, Washington, 1
+```
 * the graph is connected, i.e. any node is reachable from any other node
