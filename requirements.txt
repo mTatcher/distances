@@ -1,0 +1,2 @@
+decorator==4.0.11
+networkx==2.0.dev20170201212104
