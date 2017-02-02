@@ -1,6 +1,9 @@
+Moscow, St. Petersburg, 3
+Moscow, Moscow, 1
+Moscow, Omsk, 5
+St. Petersburg, Omsk, 4
+St. Petersburg, Vyborg, 3
+Vyborg, Helsinki, 5
+Omsk, Novgorod, 4
+Novgorod, Kiev, 6
 New York, Washington, 1
-New York, Boston, 2
-Washington, Houston, 4
-Boston, Houston, 1
-Los Angeles, Las Vegas, 2
-New York, Los Angeles, 8
